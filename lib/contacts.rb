@@ -13,7 +13,7 @@ require 'pry'
       favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
     }
   }
-  
+
 def remove_strawberry(contacts)
 
 end
